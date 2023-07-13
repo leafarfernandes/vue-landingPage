@@ -1,0 +1,7 @@
+@forward './reset';
+@forward './typography';
+@forward './layout';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
